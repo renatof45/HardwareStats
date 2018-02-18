@@ -1,0 +1,20 @@
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.exe.config
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.exe
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.pdb
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\releaseTeste\OpenHardwareMonitorLib.dll
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.Form1.resources
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.Properties.Resources.resources
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.csproj.GenerateResource.Cache
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.exe
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.pdb
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.csprojResolveAssemblyReference.cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.exe.config
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.exe
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\releaseTeste\HardwareStats.pdb
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.csprojResolveAssemblyReference.cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.Form1.resources
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.Properties.Resources.resources
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.csproj.GenerateResource.Cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.csproj.CoreCompileInputs.cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.exe
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\releaseTeste\HardwareStats.pdb

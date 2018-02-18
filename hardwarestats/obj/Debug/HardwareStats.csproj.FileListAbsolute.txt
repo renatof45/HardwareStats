@@ -1,0 +1,28 @@
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe.config
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.pdb
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Form1.resources
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Properties.Resources.resources
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.csproj.GenerateResource.Cache
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.exe
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.pdb
+C:\Users\Idalina\Dropbox\HardwareStats\HardwareStats\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe.config
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.exe
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.pdb
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\bin\Debug\HardwareStats.pdb
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.csprojResolveAssemblyReference.cache
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Form1.resources
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Properties.Resources.resources
+C:\Users\renato\Dropbox\HardwareStats\HardwareStats\obj\Debug\HardwareStats.csproj.GenerateResource.Cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe.config
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\Debug\HardwareStats.exe
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\bin\Debug\HardwareStats.pdb
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Form1.resources
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.Properties.Resources.resources
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.csproj.GenerateResource.Cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.csproj.CoreCompileInputs.cache
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.exe
+C:\Users\midal\Google Drive\HardwareStats\HardwareStats\obj\Debug\HardwareStats.pdb
